@@ -5,8 +5,8 @@
 	<Source>http://support.microsoft.com/kb/2784261/en-us</Source>
 	<Update id="KB2911101">
 		<Description>2014-01-14 Windows RT, Windows 8, and Windows Server 2012 update rollup: January 2014</Description>
-		<DownloadURL />
-		<Notes>Include KB2876391</Notes>
+		<DownloadURL>http://download.microsoft.com/download/9/4/3/943DC480-5B38-499D-A4C8-7ECE87DA9058/Windows8-RT-KB2911101-x64.msu</DownloadURL>
+		<Notes>Includes KB2876391</Notes>
 	</Update>
 	<Update id="KB2878635">
 		<Description>2013-12-23 Update is available that improves the resiliency of the cloud service provider in Windows Server 2012: December 2013</Description>
@@ -25,8 +25,8 @@
 	</Update>
 	<Update id="KB2903938">
 		<Description>2013-12-10 Windows RT, Windows 8, and Windows Server 2012 update rollup: December 2013</Description>
-		<DownloadURL />
-		<Notes>Include KB2898774</Notes>
+		<DownloadURL>http://download.microsoft.com/download/7/A/B/7AB09DBA-BA40-44A5-A1DD-87EBBE9A854C/Windows8-RT-KB2903938-x64.msu</DownloadURL>
+		<Notes>Includes KB2898774</Notes>
 	</Update>
 	<Update id="KB2894032">
 		<Description>2013-12-10 Clustered virtual machine cannot access LUNs over a Synthetic Fibre Channel after you perform live migration on Windows Server 2012 or Windows Server 2012 R2-based Hyper-V hosts</Description>
@@ -50,7 +50,42 @@
 	</Update>
 	<Update Id="KB2770917">
 		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2770917-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2758246">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2758246-v2-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2771744">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2771744-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2771821">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2771821-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2777166">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2777166-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2778171">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2778171-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2780342">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2780342-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2780523">
+		<Description>2012-11-13 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2780523-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB976424">
