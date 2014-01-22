@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updates>
 	<Description>Updates List Hyper-V and Cluster version November 13, 2013</Description>
-	<LastUpdated>2014-01-11</LastUpdated>
+	<LastUpdated>2014-01-22</LastUpdated>
+	<Source>http://social.technet.microsoft.com/wiki/contents/articles/15576.hyper-v-update-list-for-windows-server-2012.aspx</Source>
 	<Update Id="KB2756872">
 		<Description>2012-02-10 Windows 8 Client and Windows Server 2012 General Availability Update Rollup</Description>
 		<DownloadURL>http://download.microsoft.com/download/0/5/6/05696537-A7C5-4CC7-AB36-4A312B56B665/Windows8-RT-KB2756872-x64.msu</DownloadURL>
@@ -234,11 +235,6 @@
 	</Update>
 	<Update Id="KB2894032">
 		<Description>2013-11-13 Clustered virtual machine cannot access LUNs over a Synthetic Fibre Channel after you perform live migration on Windows Server 2012-based Hyper-V hosts</Description>
-		<DownloadURL>http://hotfixv4.microsoft.com/Windows%208%20RTM/nosp/Fix475626/9200/free/468990_intl_x64_zip.exe</DownloadURL>
-		<Notes />
-	</Update>
-	<Update id="KB2894032">
-		<Description>2013-12-10 Clustered virtual machine cannot access LUNs over a Synthetic Fibre Channel after you perform live migration on Windows Server 2012 or Windows Server 2012 R2-based Hyper-V hosts</Description>
 		<DownloadURL>http://hotfixv4.microsoft.com/Windows%208%20RTM/nosp/Fix475626/9200/free/468990_intl_x64_zip.exe</DownloadURL>
 		<Notes />
 	</Update>
