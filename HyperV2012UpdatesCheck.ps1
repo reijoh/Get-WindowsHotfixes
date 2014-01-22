@@ -115,14 +115,21 @@ foreach($RecomendedClusterHotfix in $ClusterHotfixes)
 }
 }
 if ($Download){
+    if($DownloadPath.LastIndexOf("\")+1 -ne $DownloadPath.Length){$DownloadPath = $DownloadPath + '\'}
     foreach($RecomendedHotfix in $HyperVHotfixes){
         if ($RecomendedHotfix.DownloadURL -ne ""){
-            Start-BitsTransfer -Source $RecomendedHotfix.DownloadURL -Destination $DownloadPath 
+            $Filename = $RecomendedHotfix.DownloadURL.Substring($RecomendedHotfix.DownloadURL.LastIndexOf("/") + 1)
+            if(!(Test-Path -Path $DownloadPath$Filename -PathType Leaf)){
+                Start-BitsTransfer -Source $RecomendedHotfix.DownloadURL -Destination $DownloadPath
+            }
         }
     }
     foreach($RecomendedClusterHotfix in $ClusterHotfixes){
         if ($RecomendedClusterHotfix.DownloadURL -ne ""){
-            Start-BitsTransfer -Source $RecomendedClusterHotfix.DownloadURL -Destination $DownloadPath 
+            $Filename = $RecomendedClusterHotfix.DownloadURL.Substring($RecomendedClusterHotfix.DownloadURL.LastIndexOf("/") + 1)
+            if(!(Test-Path -Path $DownloadPath$Filename -PathType Leaf)){
+                Start-BitsTransfer -Source $RecomendedClusterHotfix.DownloadURL -Destination $DownloadPath 
+            }
         }
     }
 }
