@@ -4,7 +4,17 @@
 	<LastUpdated>2014-01-11</LastUpdated>
 	<Update Id="KB2756872">
 		<Description>2012-02-10 Windows 8 Client and Windows Server 2012 General Availability Update Rollup</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/0/5/6/05696537-A7C5-4CC7-AB36-4A312B56B665/Windows8-RT-KB2756872-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2761094">
+		<Description>2012-02-10 Windows 8 Client and Windows Server 2012 General Availability Update Rollup</Description>
+		<DownloadURL>http://download.microsoft.com/download/0/5/6/05696537-A7C5-4CC7-AB36-4A312B56B665/Windows8-RT-KB2761094-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2764870">
+		<Description>2012-02-10 Windows 8 Client and Windows Server 2012 General Availability Update Rollup</Description>
+		<DownloadURL>http://download.microsoft.com/download/0/5/6/05696537-A7C5-4CC7-AB36-4A312B56B665/Windows8-RT-KB2764870-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2770440">
@@ -14,12 +24,27 @@
 	</Update>
 	<Update Id="KB2770917">
 		<Description>2012-11-02 Windows 8 and Windows Server 2012 cumulative update: November 2012</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/4/9/6/496C09FF-C2CB-4F8F-B941-3860180F50CE/Windows8-RT-KB2770917-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2779768">
 		<Description>2012-11-20 Windows 8 and Windows Server 2012 cumulative update: December 2012</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/9/F/6/9F6EC2CC-EF81-4DB7-AFFE-F198D63F42C8/Windows8-RT-KB2779768-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2782419">
+		<Description>2012-11-20 Windows 8 and Windows Server 2012 cumulative update: December 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/9/F/6/9F6EC2CC-EF81-4DB7-AFFE-F198D63F42C8/Windows8-RT-KB2782419-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2783251">
+		<Description>2012-11-20 Windows 8 and Windows Server 2012 cumulative update: December 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/9/F/6/9F6EC2CC-EF81-4DB7-AFFE-F198D63F42C8/Windows8-RT-KB2783251-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2784160">
+		<Description>2012-11-20 Windows 8 and Windows Server 2012 cumulative update: December 2012</Description>
+		<DownloadURL>http://download.microsoft.com/download/9/F/6/9F6EC2CC-EF81-4DB7-AFFE-F198D63F42C8/Windows8-RT-KB2784160-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2785638">
@@ -29,7 +54,12 @@
 	</Update>
 	<Update Id="KB2795944">
 		<Description>2013-01-16 Windows 8 and Windows Server 2012 update rollup: February 2013</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/E/3/A/E3ABAA90-DC72-4272-82A3-311B2A13DB94/Windows8-RT-KB2795944-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2803676">
+		<Description>2013-01-16 Windows 8 and Windows Server 2012 update rollup: February 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/E/3/A/E3ABAA90-DC72-4272-82A3-311B2A13DB94/Windows8-RT-KB2803676-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2803748">
@@ -54,7 +84,27 @@
 	</Update>
 	<Update Id="KB2811660">
 		<Description>2013-02-02 Windows 8 and Windows Server 2012 cumulative update: March 2013</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/B/7/D/B7DDF7DD-0997-4423-BF7B-0C739E7AB22B/Windows8-RT-KB2811660-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2800088">
+		<Description>2013-02-02 Windows 8 and Windows Server 2012 cumulative update: March 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/B/7/D/B7DDF7DD-0997-4423-BF7B-0C739E7AB22B/Windows8-RT-KB2800088-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2812829">
+		<Description>2013-02-02 Windows 8 and Windows Server 2012 cumulative update: March 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/B/7/D/B7DDF7DD-0997-4423-BF7B-0C739E7AB22B/Windows8-RT-KB2812829-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2815769">
+		<Description>2013-02-02 Windows 8 and Windows Server 2012 cumulative update: March 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/B/7/D/B7DDF7DD-0997-4423-BF7B-0C739E7AB22B/Windows8-RT-KB2815769-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2823233">
+		<Description>2013-02-02 Windows 8 and Windows Server 2012 cumulative update: March 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/B/7/D/B7DDF7DD-0997-4423-BF7B-0C739E7AB22B/Windows8-RT-KB2823233-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2806542">
@@ -64,7 +114,17 @@
 	</Update>
 	<Update Id="KB2822241">
 		<Description>2013-03-02 Windows 8 and Windows Server 2012 cumulative update: April 2013</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/E/A/8/EA8A3992-370B-4D2C-B90E-2097BDBB94EC/Windows8-RT-KB2822241-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2823516">
+		<Description>2013-03-02 Windows 8 and Windows Server 2012 cumulative update: April 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/E/A/8/EA8A3992-370B-4D2C-B90E-2097BDBB94EC/Windows8-RT-KB2823516-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2851234">
+		<Description>2013-03-02 Windows 8 and Windows Server 2012 cumulative update: April 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/E/A/8/EA8A3992-370B-4D2C-B90E-2097BDBB94EC/Windows8-RT-KB2851234-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2823643">
@@ -94,7 +154,7 @@
 	</Update>
 	<Update Id="KB2836988">
 		<Description>2013-04-08 Windows 8 and Windows Server 2012 update rollup: May 2013</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/3/F/E/3FEEF9BA-BFB5-492C-8C08-C5790C1E2346/Windows8-RT-KB2836988-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2836402">
@@ -104,7 +164,22 @@
 	</Update>
 	<Update Id="KB2845533">
 		<Description>2013-05-04 Windows RT, Windows 8, and Windows Server 2012 update rollup: June 2013</Description>
-		<DownloadURL />
+		<DownloadURL>http://download.microsoft.com/download/0/F/3/0F3AD5A0-6978-48FC-BBF5-94A4F79DEE6B/Windows8-RT-KB2845533-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2850674">
+		<Description>2013-05-04 Windows RT, Windows 8, and Windows Server 2012 update rollup: June 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/0/F/3/0F3AD5A0-6978-48FC-BBF5-94A4F79DEE6B/Windows8-RT-KB2850674-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2853915">
+		<Description>2013-05-04 Windows RT, Windows 8, and Windows Server 2012 update rollup: June 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/0/F/3/0F3AD5A0-6978-48FC-BBF5-94A4F79DEE6B/Windows8-RT-KB2853915-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2856758">
+		<Description>2013-05-04 Windows RT, Windows 8, and Windows Server 2012 update rollup: June 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/0/F/3/0F3AD5A0-6978-48FC-BBF5-94A4F79DEE6B/Windows8-RT-KB2856758-x64.msu</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2832478">
@@ -139,13 +214,23 @@
 	</Update>
 	<Update Id="KB2840681">
 		<Description>2013-05-31 Computer does not shut down after you remove a virtual switch in Windows Server 2012</Description>
-		<DownloadURL />
+		<DownloadURL>http://hotfixv4.microsoft.com/Windows%208%20RTM/nosp/Fix452929/9200/free/464214_intl_x64_zip.exe</DownloadURL>
 		<Notes />
 	</Update>
 	<Update Id="KB2855336">
 		<Description>2013-07-12 Windows RT, Windows 8, and Windows Server 2012 update rollup: July 2013</Description>
-		<DownloadURL />
-		<Notes>Includes KB285392, KB2854362</Notes>
+		<DownloadURL>http://download.microsoft.com/download/5/C/6/5C652B4A-F479-4210-A102-832CD9E48AE6/Windows8-RT-KB2855336-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2862073">
+		<Description>2013-07-12 Windows RT, Windows 8, and Windows Server 2012 update rollup: July 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/5/C/6/5C652B4A-F479-4210-A102-832CD9E48AE6/Windows8-RT-KB2862073-x64.msu</DownloadURL>
+		<Notes />
+	</Update>
+	<Update Id="KB2866029">
+		<Description>2013-07-12 Windows RT, Windows 8, and Windows Server 2012 update rollup: July 2013</Description>
+		<DownloadURL>http://download.microsoft.com/download/5/C/6/5C652B4A-F479-4210-A102-832CD9E48AE6/Windows8-RT-KB2866029-x64.msu</DownloadURL>
+		<Notes />
 	</Update>
 	<Update Id="KB2894032">
 		<Description>2013-11-13 Clustered virtual machine cannot access LUNs over a Synthetic Fibre Channel after you perform live migration on Windows Server 2012-based Hyper-V hosts</Description>
