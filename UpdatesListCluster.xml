@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updates>
 	<Description>Recommended hotfixes and updates for Windows Server 2012-based Failover Clusters, version January 11, 2014</Description>
-	<LastUpdated>2014-01-11</LastUpdated>
+	<LastUpdated>2014-01-22</LastUpdated>
 	<Source>http://support.microsoft.com/kb/2784261/en-us</Source>
 	<Update id="KB2911101">
 		<Description>2014-01-14 Windows RT, Windows 8, and Windows Server 2012 update rollup: January 2014</Description>
